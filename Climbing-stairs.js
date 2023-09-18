@@ -14,3 +14,6 @@ Examples:
 Notes:
   2 <= len(cost) <= 1000
 */
+
+
+// Solution
