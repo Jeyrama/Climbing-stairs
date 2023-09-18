@@ -39,3 +39,5 @@ function climbingStairs(cost) {
   }//can exit off last step or second last whichever has less cost 
   return Math.min(minCost[n-1], minCost[n-2]); 
 }
+
+// or
